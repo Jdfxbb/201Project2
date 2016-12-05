@@ -1,0 +1,15 @@
+12344   80  80  90   After exam 2  83.57 %   92   After final exam  86.10 %   Overall grade is B
+32456   86  95  92   After exam 2  91.36 %   90   After final exam  90.95 %   Overall grade is A
+54321   92  85  95   After exam 2  90.57 %   95   After final exam  91.90 %   Overall grade is A
+23575   90  89  85   After exam 2  87.86 %   92   After final exam  89.10 %   Overall grade is B
+45673   95  95  94   After exam 2  94.64 %   98   After final exam  95.65 %   Overall grade is A
+32123   90  89  95   After exam 2  91.43 %   95   After final exam  92.50 %   Overall grade is A
+65532   94  92  95   After exam 2  93.64 %   97   After final exam  94.65 %   Overall grade is A
+32434   80  85  84   After exam 2  83.21 %   86   After final exam  84.05 %   Overall grade is B
+32914   60  70  75   After exam 2  68.93 %   80   After final exam  72.25 %   Overall grade is C
+76832   76  86  88   After exam 2  83.86 %   87   After final exam  84.80 %   Overall grade is B
+28394   90  92  89   After exam 2  90.36 %   94   After final exam  91.45 %   Overall grade is A
+87364   89  97  95   After exam 2  94.00 %   96   After final exam  94.60 %   Overall grade is A
+36489  100  98  99   After exam 2  98.93 %   98   After final exam  98.65 %   Overall grade is A
+Number of A's: 8
+Number of B's: 4
